@@ -1,8 +1,11 @@
-gText_WantToUseSurf:: @ 8272FD6
-	.string "The water is dyed a deep blue…\nWould you like to Surf?$"
+gText_WantToUseSurf::
+    .string "L’eau est teintée d’un bleu foncé…\n"
+    .string "Voulez-vous utiliser Surf?$"
 
 Text_ExploudSurf:: @ 8272FD6
-	.string "The water is dyed a deep blue…\nCall Dad's Exploud to Surf?$"
+	.string "L’eau est teintée d’un bleu foncé…\n"
+	.string "Faire appel à Brouhabam et surfer?$"
 
-gText_PlayerUsedSurf:: @ 827300D
-	.string "{STR_VAR_1} used Surf!$"
+gText_PlayerUsedSurf::
+    .string "{STR_VAR_1} utilise Surf!$"
+
